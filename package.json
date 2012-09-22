@@ -1,0 +1,23 @@
+{
+  "name": "node-controlled-amd",
+  "version": "0.0.0",
+  "description": "An AMD loader for NodeJS that keeps you in control by using minimal magic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/glenjamin/node-controlled-amd.git"
+  },
+  "keywords": [
+    "amd",
+    "require"
+  ],
+  "author": "Glen Mailer",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.4.2",
+    "chai": "~1.2.0"
+  }
+}
